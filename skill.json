@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-freight-claim-carmack-amendment-subrogation-skill",
+  "version": "1.0.0",
+  "title": "Freight Cargo Loss & Carmack Amendment Subrogation Claim Skill",
+  "category": "Agentic Commerce (Freight Claims & Cargo Insurance)",
+  "description": "Compiles legally binding freight loss/damage claims under the Carmack Amendment (49 U.S.C. \u00a7 14706), audits carrier Bill of Lading liability limitations ($0.50/lb vs full invoice), and issues formal subrogation demand notices.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "compile_carmack_freight_damage_claim"
+  ],
+  "dependencies": []
+}
